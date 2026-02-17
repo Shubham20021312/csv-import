@@ -1,0 +1,4 @@
+user_id,username,email,password
+1,johndoe,johndoe@example.com,Password123
+2,janedoe,jane_doe@example.com,SecurePass456
+3,baduser,baduser@,password
